@@ -1,4 +1,4 @@
-# pig-game_JS
+# mini_dice-game_JS
 /*
 GAME RULES:
 
